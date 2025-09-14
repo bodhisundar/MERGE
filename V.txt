@@ -1,1 +1,2 @@
 Vegetables -> Potato, Ginger, onion.
+Vegetables -> Potato, Ginger, cabbage
